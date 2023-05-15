@@ -1,6 +1,6 @@
 {
     "name": "react-native-urban-journey",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "this is designed for urban",
     "homepage": "https://github.com/daphnefisher/react-native-urban-journey",
     "main": "index.js",
@@ -19,11 +19,13 @@
         "type": "git",
         "url": "https://github.com/daphnefisher/react-native-urban-journey.git"
     },
+    "dependencies": {
+        "@react-native-community/netinfo": "9.3.7",
+        "react-native-spinkit": "^1.5.1"
+    },
     "peerDependencies": {
         "react": "*",
         "react-native": "*",
-        "@react-native-community/netinfo": "9.3.7",
-        "react-native-spinkit": "^1.5.1",
         "react-native-splash-screen": "^3.3.0"
     }
   }
