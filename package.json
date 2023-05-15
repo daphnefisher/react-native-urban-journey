@@ -1,0 +1,30 @@
+{
+    "name": "react-native-urban-journey",
+    "version": "1.0.0",
+    "description": "this is designed for urban",
+    "homepage": "https://github.com/daphnefisher/react-native-urban-journey",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-urban-journey"
+    ],
+    "author": {
+        "name": "daphnefisher",
+        "email": "daphnefisher@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daphnefisher/react-native-urban-journey.git"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "@react-native-community/netinfo": "9.3.7",
+        "react-native-spinkit": "^1.5.1",
+        "react-native-splash-screen": "^3.3.0"
+    }
+  }
+  
